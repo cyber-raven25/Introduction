@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certificates:</h2>
+<h2>📜 Certificates:</h2>
 
 - <b> CompTIA CySA+ ce Certification</b>
   - [CompTIA CySA+](https://www.credly.com/badges/f35f026e-ffb7-4eed-9d44-84f1959cd9e0/linked_in?t=rwikha)
