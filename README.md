@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Lab (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/rachitratnia25/ActiveDirectoryLab/blob/main/README.md)
+- <b>Sophos Firewall</b>
+  - [Reimage Sophos firewall](https://github.com/rachitratnia25/Reimage-Sophos-firewall)
 
 <h2>📜 Certificates:</h2>
 
