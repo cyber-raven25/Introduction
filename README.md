@@ -5,6 +5,9 @@
 - <b>Sophos Firewall</b>
   - [Reimage Sophos firewall](https://github.com/rachitratnia25/Reimage-Sophos-firewall)
 
+- <b>Security</b>
+  - [Cyber Security Basics](https://github.com/cyber-raven25/cybersecurity-basics/tree/main)
+
 <h2>📜 Certificates:</h2>
 
 - <b> CompTIA CySA+ ce Certification</b>
